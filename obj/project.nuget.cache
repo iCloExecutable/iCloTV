@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lNJmi5jQH/WW/sQre7XNDlCqUy3shuUavOUk8ypQWcZcbAEnx7y/vYu0WOCMFBdWG08YplvA1xoPtrZfcHsSrg==",
+  "success": true,
+  "projectFilePath": "D:\\prk\\iCloTV\\iCloTV\\iCloTV.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\er3es\\.nuget\\packages\\microsoft.web.webview2\\1.0.1054.31\\microsoft.web.webview2.1.0.1054.31.nupkg.sha512"
+  ],
+  "logs": []
+}
